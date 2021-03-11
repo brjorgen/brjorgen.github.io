@@ -3,13 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
+### About Me!
 
-Some information about you!
+I'm a software engineering student based in Paris, France. I cater an interest
+in cybersec, emulators (mostly LLE for the moment), OS design and computer graphics.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently looking for an end-of-second/start-of-third year bachelors level internship.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[brjorgen@protonmail.com](mailto:brjorgen@protonmail.com)
